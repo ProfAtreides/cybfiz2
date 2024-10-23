@@ -1,0 +1,1 @@
+Dane są przygotowane z rodzielczością jeden rekord na jeden dzień. Brak danych zaznaczony jest poprzez "null".
